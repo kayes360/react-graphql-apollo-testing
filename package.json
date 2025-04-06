@@ -22,8 +22,6 @@
         ]
     },
     "dependencies": {
-        "@apollo/client": "^3.13.6",
-        "graphql": "^16.10.0",
         "jest-environment-jsdom": "^29.7.0",
         "react": "^19.0.0",
         "react-dom": "^19.0.0"
